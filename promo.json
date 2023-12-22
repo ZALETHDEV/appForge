@@ -1,0 +1,19 @@
+{
+  "slide": [
+    {
+      "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Panama.jpg",
+      "action": "https://www.wingo.com",
+      "title": "Promociones Panama"
+    },
+    {
+      "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Habana.jpg",
+      "action": "https://www.youtube.com/",
+      "title": "Promociones Habana"
+    },
+    {
+      "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Aruba.jpg",
+      "action": "https://www.bebolder.co/",
+      "title": "Bebolder"
+    }
+  ]
+}
