@@ -1,19 +1,19 @@
 {
   "slide": [
     {
-      "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Panama.jpg",
-      "action": "https://www.wingo.com",
-      "title": "Promociones Panama"
+      "url": "https://images.prismic.io/lynxair-ezycommerce/68ab3a15-0140-44b2-a23e-68ab18f4ea0b_mcoWeb+%281%29.png",
+      "action": "https://www.flylynx.com/en/select",
+      "title": "Discover Orlando"
     },
     {
-      "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Habana.jpg",
-      "action": "https://www.youtube.com/",
-      "title": "Promociones Habana"
+      "url": "https://images.prismic.io/lynxair-ezycommerce/00aeb1e0-7af4-4114-8e69-6d2c8a1e1e4c_Fort+Myers+Web+%283%29.png",
+      "action": "https://www.flylynx.com/en/select",
+      "title": "Discover Fort Myers"
     },
     {
-      "url": "https://content.r9cdn.net/rimg/dimg/b8/40/56bf1d03-city-26923-1663b0d8359.jpg",
-      "action": "https://www.bebolder.co/",
-      "title": "Cartagena Test"
+      "url": "https://images.prismic.io/lynxair-ezycommerce/1a6a975e-0235-484a-be59-2bb3d5666cd4_tampaWeb.png",
+      "action": "https://www.flylynx.com/en/select",
+      "title": "Discover Tampa Bay"
     }
   ]
 }
